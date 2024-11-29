@@ -1,0 +1,10 @@
+opencv-python
+numpy
+mediapipe
+tensorflow
+pyautogui
+psutil
+pillow
+tk
+pygetwindow
+pywin32
