@@ -252,6 +252,7 @@ def create_tutorial(root):
         ("Volume Up/Down (volume_up/down)", "Increase or Decrease the Volume"),
         ("Next/Previous Track (next/prev_track)", "Skip to the Next or Previous Track"),
         ("Repeat (repeat)", "Spotify will Repeat Playlist or Current Track"),
+        ("Shuffle (shuffle)", "Spotify will set the Playlist to Shuffle mode"),
         ("Close App (close_app)", "Close Gesture Detection")
     ]
     
