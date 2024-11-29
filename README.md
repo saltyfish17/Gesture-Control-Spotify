@@ -80,7 +80,9 @@ This application enables users to control Spotify using hand gestures via a came
 ### Data Collection
 1. **Using `mediapipe`**:
    - Run `collect_data_mediapipe.py`.
-   - Specify gestures in the script and click the list index for each gesture during collection.
+   - Specify gestures in the script and use keyboard input to select the list index for each gesture during collection.
+   - The list can contain a maximum of 10 gestures, but to record more, remove old items.
+   - Press `c` to clear selection and `q` to quit.
 2. **Using a Trained Model**:
    - If the trained model mistakenly detects facial features, run `collect_data_keras.py` to include a separate class (`none`) for facial detection.
 
@@ -93,6 +95,7 @@ This application enables users to control Spotify using hand gestures via a came
    ```bash
    python test_keras_model.py
    ```
+- Press `Esc` to quit.
 
 ---
 
