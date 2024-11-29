@@ -5,7 +5,7 @@ import mediapipe as mp
 from tensorflow.keras.models import load_model
 
 # Load your trained model
-model = load_model('12_gesture_model.keras')  # Replace with your model path
+model = load_model('best_gesture_model.keras')  # Replace with your model path
 
 # Mediapipe setup
 mp_hands = mp.solutions.hands
