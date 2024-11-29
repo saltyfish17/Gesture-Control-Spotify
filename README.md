@@ -1,4 +1,4 @@
-# Gesture-Control-Spotify
+# Hand Gesture Recognition for Spotify Control
 
 ## Overview
 This application enables users to control Spotify using hand gestures via a camera. The app maps predefined actions (e.g., Play, Pause, Next Track) to specific hand gestures, providing a hands-free way to interact with Spotify.
@@ -30,8 +30,8 @@ This application enables users to control Spotify using hand gestures via a came
 ## Usage
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/saltyfish17/Gesture-Control-Spotify.git
-   cd Gesture-Control-Spotify
+   git clone https://github.com/saltyfish17/Hand-Gesture-Recognition-Control-Spotify.git
+   cd Hand-Gesture-Recognition-Control-Spotify
    ```
 2. **Launch the App**:
    ```bash
