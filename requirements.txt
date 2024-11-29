@@ -1,5 +1,6 @@
 opencv-python
 numpy
+pandas
 mediapipe
 tensorflow
 pyautogui
@@ -8,3 +9,5 @@ pillow
 tk
 pygetwindow
 pywin32
+matplotlib
+seaborn
